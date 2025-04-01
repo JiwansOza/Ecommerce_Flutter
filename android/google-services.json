@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174983771135",
+    "project_id": "ecommerce-app-6a72e",
+    "storage_bucket": "ecommerce-app-6a72e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174983771135:android:2f58aff58bf40c4146edca",
+        "android_client_info": {
+          "package_name": "com.jiwans.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaNKEJ6f4k07QenDSg89-IlfM2zjWNKnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
